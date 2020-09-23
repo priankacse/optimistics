@@ -75,10 +75,14 @@ p{ font-size:1.2rem; }
 .feature-border{ border-right: 1px solid #9A9A9A;    }
 .feature-border.none{ border-right: none;  }
 /****************/
-
+.feature-block{ font-size:12px; padding:5px 30px; }
+.feature-block .image{ padding-right: 30px; font-size:30px;}
+.feature-block p{ font-size: 1rem; }
+/****************/
 .container-full{ width: 100%; display: block; background: transparent; }
 .c-f-background-t{ background: transparent; }
 .c-f-background{ background: #303234; }
+.c-f-background-white{ background: #FAFAFA; }
 .b-light-gray{ background: #E4E6E5; }
 .b-extra-light-gray{ background: #EBE4E4; }
 .b-gray{ background: #DBDBDB; }
